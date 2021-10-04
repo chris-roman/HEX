@@ -1,19 +1,7 @@
 # **HEX - Challenge: Have Seeds Will Travel!**
 
 ## Table of Contents
-1. [About Us](#About-Us)
-2. [Introduction](#Introduction)
-    1. [Space Gastronomy](#Space-Gastronomy)
-    2. [State-of-Art](#State-of-Art)
-        1. [Vegetable Production System (Veggie)](#Vegetable-Production-System-(Veggie))
-        2. [Advanced Plant Habit (APH)](#Advanced-Plant-Habit-(APH))
-3. [Proposal](#Proposal)
-    1. [Project Overview](#Project-Overview)
-    2. [3D Model](#3D-Model)
-    3. [Flowchart](#Flowchart)
-4. [Conclusion](#Conclusion)
-5. [Future Work](#Future-Work)
-6. [References](#References)
+{:toc}
 
 ## **About Us**
 
