@@ -27,7 +27,7 @@ We provide the solution to the feeding of a crew of 4-6 people, focusing on vita
 
 We approach this challenge under a modular concept, easy to implement and that compromises the crew's time as little as possible so that they can focus on their assigned tasks for the mission.
 
-The system has an intelligent terrarium, an intelligent power distributor and unions that allow with solar energy to have crops in production on Mars
+The system has an intelligent terrarium, an intelligent power distributor and unions that allow with solar energy to have crops in production on Mars.
 
 
 ## **Introduction**
@@ -60,16 +60,16 @@ Each plant grows in a “pillow” filled with a clay-based growth media and fer
 
 **Figure 2** - 18 plant pillows for the Veg-03 experiment prepared for delivery to the International Space Station aboard the eighth SpaceX Dragon commercial resupply mission. Recovered from [NASA Image and Video Library](https://images.nasa.gov/details-KSC-20160323-PH-DNG01_0003.html)
 
-Throughout many experiments, the veggie project attempted to ripen many seeds for human-consumption purposes, as well as non-consumable. Among the consumable crops, we can find 'Red Russian' lettuce, *Mizuna* mustard, chinese cabbage, and some more. These vegetables contains significant amount of minerals and vitamins, which are quintessential for a balanced and complete nutrition, and the last stages successfully demonstrated its production <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
+Throughout many experiments, the veggie project attempted to ripen many seeds for human-consumption purposes, as well as non-consumable. Among the consumable crops, we can find 'Red Russian' lettuce, *Mizuna* mustard, chinese cabbage, and some more. These vegetables contains significant amount of minerals and vitamins, which are quintessential for a balanced and complete nutrition, and the last stages successfully demonstrated its production. <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
 
 Although the implemented design shows that is possible to make many seeds grow in zero-gravity environment, it is not stackable, which means that it cannot be assembled one above other. Instead, it just expands horizontally, which can be troublesome for the reduced amount of space that the crowd already faces.
 
 
 #### **Advanced Plant Habit (APH)**
 
-The Advanced Plant Habitat (APH) is a growth chamber on station for plant research. It uses LED lights and a porous clay substrate with controlled release fertilizer to deliver water, nutrients and oxygen to the plant roots <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
+The Advanced Plant Habitat (APH) is a growth chamber on station for plant research. It uses LED lights and a porous clay substrate with controlled release fertilizer to deliver water, nutrients and oxygen to the plant roots. <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
 
-This system differs from the Vegetable Production System (Veggie) since it is enclosed and automated with cameras and more than 180 sensors that are in constant interactive contact with a team on Earth at Kennedy Space Center. Its water recovery and distribution, atmosphere content, moisture levels and temperature are all automated. Compare to Veggie, it has more colors of LED lights including red, green, blue, white, far red and even infrared to allow nighttime imaging <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
+This system differs from the Vegetable Production System (Veggie) since it is enclosed and automated with cameras and more than 180 sensors that are in constant interactive contact with a team on Earth at Kennedy Space Center. Its water recovery and distribution, atmosphere content, moisture levels and temperature are all automated. Compare to Veggie, it has more colors of LED lights including red, green, blue, white, far red and even infrared to allow nighttime imaging. <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
 
 ![APH](./images/aph.jpg)
 
@@ -112,11 +112,11 @@ Among these, the crops that stand out not only for their richness and nutritiona
 - **Mustard**: To be precise, *Mizuna mustard*, cultivated in the Veggie project. <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
 - **Wheat**: Cultivated in the APH project. <sup>[7](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)</sup>
 
-With these crops, it is possible to arrange several menus that offers a variety of complete and balanced plates, not only for nutritional purposes, but also for the variety of tastes directed to each member of the tripulation
+With these crops, it is possible to arrange several menus that offers a variety of complete and balanced plates, not only for nutritional purposes, but also for the variety of tastes directed to each member of the tripulation.
 
 ### Project Overview
 
-We designed a modular system capable of deploying individual pots where a crop will be planted, grown and harvested. These pots will act as an enclosed environment for the crop to get the right temperature, light, humidity level, air flow, water and fertilizers. Both water and fertilizers will be injected through a vascular system integrated in the pots, reaching the points where the plant can access to them through wicking (similar as _Veggie_ does). [4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
+We designed a modular system capable of deploying individual pots where a crop will be planted, grown and harvested. These pots will act as an enclosed environment for the crop to get the right temperature, light, humidity level, air flow, water and fertilizers. Both water and fertilizers will be injected through a vascular system integrated in the pots, reaching the points where the plant can access to them through wicking (similar as _Veggie_ does). <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
 
 The purpose of this design is to make the most of the available space of the vehicle. We visualize that at the beginning of the journey, most of the stowage space will be occupied by prepackaged food, and a little space will have our HEX pots un-assembled. While the crew eats the food, the space from the prepackaged food will be free, so the astronauts will be deploying the HEX pots in that space and planting the crops. This will keep a continuous food production system even when the prepackaged food finally depletes.
 
@@ -145,7 +145,7 @@ This means that our proposal is stackable, modular and interconnected. Which put
 
 The materials used for the main module were:
 
-- **Transparent panel**: polycarbonate with antistatic agents, and antioxidants additives
+- **Transparent panel**: Polycarbonate with antistatic agents, and antioxidants additives
 - **Gripper, support frame**: High Density Polyethylene (HDPE)
 - **Base**: Rubber
 
@@ -198,15 +198,15 @@ A decentralized and multi-attachable cultivation system was designed capable of 
 
 ## **References**
 
-- [1] [Space Food | NASA](https://www.nasa.gov/content/space-food-systems)
-- [2] [Growing Plants in Space | NASA](https://www.nasa.gov/content/growing-plants-in-space)
+- [1] [Space Food - NASA](https://www.nasa.gov/content/space-food-systems)
+- [2] [Growing Plants in Space - NASA](https://www.nasa.gov/content/growing-plants-in-space)
 - [3] [Veg-03 Plant Pillows Readied at Kennedy Space Center for Trip to Space Station – Kennedy Space Center (nasa.gov)](https://blogs.nasa.gov/kennedy/2016/04/08/veg-03-plant-pillows-readied-at-kennedy-space-center-for-trip-to-space-station/)
 - [4] [Veggie Fact Sheet (nasa.gov)](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
 - [5] [Agriculture for Space: People and Places Paving the Way (degruyter.com)](https://www.degruyter.com/document/doi/10.1515/opag-2017-0002/html)
 - [6] [(PDF) Plants for human life support in space: From Myers to Mars (researchgate.net)](https://www.researchgate.net/publication/228484167_Plants_for_human_life_support_in_space_From_Myers_to_Mars)
-- [7] [Giving Roots and Shoots Their Space: The Advanced Plant Habitat | NASA](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)
-- [8] [Astronauts Harvest Radish Crop on International Space Station | NASA](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)
+- [7] [Giving Roots and Shoots Their Space: The Advanced Plant Habitat - NASA](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)
+- [8] [Astronauts Harvest Radish Crop on International Space Station - NASA](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)
 - [9] [MEAT FOR SPACE — (aleph-farms.com)](https://www.aleph-farms.com/aleph-zero)
-- [10] [Meat Grown in Space for the First Time Ever | Space](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)
+- [10] [Meat Grown in Space for the First Time Ever - Space](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)
 - [11] [ESA - ESA investigates cultured meat as novel space food](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)
-- [12] [Space Oven | Zero G Kitchen](https://www.zerogk.space/space-oven)
+- [12] [Space Oven - Zero G Kitchen](https://www.zerogk.space/space-oven)
