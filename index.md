@@ -2,7 +2,6 @@
 
 ## Table of Contents
 1. [About Us](#About-Us)
-    1. [Why HEX?](#Why-HEX?)
 2. [Introduction](#Introduction)
     1. [Space Gastronomy](#Space-Gastronomy)
     2. [State-of-Art](#State-of-Art)
@@ -18,7 +17,7 @@
 
 ## **About Us**
 
-We are a team of mechatronic engineers that seeks to solve problems in the area of ​​agriculture, and in this competition, NASA gives us the opportunity to solve similar problems but in space.
+We are a team of mechatronics engineers that seeks to solve problems in the area of ​​agriculture, and in this competition, NASA gives us the opportunity to solve similar problems but in space.
 
 We developed a modular smart growing system, which will allow the crew to plant on Mars.
 
@@ -33,7 +32,7 @@ The system has an intelligent terrarium, an intelligent power distributor and un
 
 ## **Introduction**
 
-### -> Space Gastronomy
+### Space Gastronomy
 
 Nutrition plays a key role in maintaining the health and optimal performance of astronauts before, during, and after spaceflight. Food flown on-orbit is not only required to be nutritious, but also must be appetizing, since it plays a critical social and psychological role during an astronaut's mission. <sup>[1](https://www.nasa.gov/content/space-food-systems)</sup>
 
@@ -41,7 +40,7 @@ At present, the Space Food Systems team is required to meet the nutritional need
 
 However, pre-packaged food won't be a solution for long-duration and exploration-class missions. When crews venture further into space, traveling for months or years without resupply shipments, the vitamins in prepackaged form break down over time, which presents a problem for astronaut health. <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
 
-### -> State-of-Art
+### State-of-Art
 
 NASA is looking to create food production systems to provide astronauts with nutrients in a long-lasting, easily absorbed form—freshly grown fresh fruits and vegetables in the challenging environment of deep space. <sup>[2](https://www.nasa.gov/content/growing-plants-in-space)</sup>
 
@@ -53,13 +52,13 @@ The Veggie garden is about the size of a carry-on piece of luggage and typically
 
 ![Red lettuce in Veggie](./images/veggie_red_lettuce.png)
 
-**Figure X** - A portion of of the 'Outredgeous' red romaine lettuce from the VEG-03 ground control unit. Recovered from [Veggie's Fact Sheet](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
+**Figure 1** - A portion of of the 'Outredgeous' red romaine lettuce from the VEG-03 ground control unit. Recovered from [Veggie's Fact Sheet](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
 
 Each plant grows in a “pillow” filled with a clay-based growth media and fertilizer. The pillows are important to help distribute water, nutrients and air in a healthy balance around the roots. Otherwise, the roots would either drown in water or be engulfed by air because of the way fluids in space tend to form bubbles. <sup>[2](https://www.nasa.gov/content/growing-plants-in-space), [3](https://blogs.nasa.gov/kennedy/2016/04/08/veg-03-plant-pillows-readied-at-kennedy-space-center-for-trip-to-space-station/)</sup>
 
 ![Veg-03 Pillows Preparation for Flight](./images/veggie_pillows.png)
 
-**Figure X** - 18 plant pillows for the Veg-03 experiment prepared for delivery to the International Space Station aboard the eighth SpaceX Dragon commercial resupply mission. Recovered from [NASA Image and Video Library](https://images.nasa.gov/details-KSC-20160323-PH-DNG01_0003.html)
+**Figure 2** - 18 plant pillows for the Veg-03 experiment prepared for delivery to the International Space Station aboard the eighth SpaceX Dragon commercial resupply mission. Recovered from [NASA Image and Video Library](https://images.nasa.gov/details-KSC-20160323-PH-DNG01_0003.html)
 
 Throughout many experiments, the veggie project attempted to ripen many seeds for human-consumption purposes, as well as non-consumable. Among the consumable crops, we can find 'Red Russian' lettuce, *Mizuna* mustard, chinese cabbage, and some more. These vegetables contains significant amount of minerals and vitamins, which are quintessential for a balanced and complete nutrition, and the last stages successfully demonstrated its production <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
 
@@ -74,18 +73,19 @@ This system differs from the Vegetable Production System (Veggie) since it is en
 
 ![APH](./images/aph.jpg)
 
-**Figure X** - First growth test of crops in the Advanced Plant Habitat aboard the International Space Station. (Arabidopsis seeds)
+**Figure 3** - First growth test of crops in the Advanced Plant Habitat aboard the International Space Station. (Arabidopsis seeds)
 
 Even though the system is highly automated, it ultimately depends from human intervention at the Kennedy Space Center which is not suitable for missions at very long distances where the communication could be delayed for minutes or even hours regarding of the distance and bandwidth.
 
 ## **Proposal**
 
 
-**MORE FEASIBLE TO PRODUCE:**
+**Selection of crops for human consumption**
 
 
 The following list of crops contains some of the most relevant vegetables, about which more has been experimented throughout the history of space cultivation<sup>[5](https://www.degruyter.com/document/doi/10.1515/opag-2017-0002/html),[6](https://www.researchgate.net/publication/228484167_Plants_for_human_life_support_in_space_From_Myers_to_Mars)</sup>. The first column specifies the crop or vegetable, the second one contains some of the relevant minerals and vitamins for each vegetable, along with its online source in the third column.
 
+**TABLE 1:** *List of some of the most researched and cultivated consumable crops for space.*
 
 
 | CROP        	| REVELANTS MINERALS CONTAINED                                  	| SOURCE                                                                   	|
@@ -104,37 +104,35 @@ The following list of crops contains some of the most relevant vegetables, about
 | Mizuna mustard      	| Vitamins {A, C, K}, CALCIUM, PROTEIN               	| [What Is Mizuna? All About This Unique, Leafy Green](https://www.healthline.com/nutrition/mizuna)             	|
 
 
-https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf
-
 Among these, the crops that stand out not only for their richness and nutritional variety, but also for the reliability they present at the moment of being conceived for consumption in a prudent time, have been selected <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>. Some of the most important vitamins (Group B, C, K) are emphasized, along with minerals of utmost importance for body integrity (fiber, calcium, magnesium, potassium, etc.). Many of these were implemented in Veggie & ADP projects <sup>[7](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)</sup>.
 
-- **Lettuce**: To be precise, *'Outredgeous’ red romaine lettuce*, cultivated in the Veggie project. []() 
-- **Radish**: Cultivated in the APH project, during the Plant Habitat-02 (PH-02) experiment. [8](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)
-- **Cabbage**: To be precise, *'Tokyo Bekana' Chinese cabbage*, cultivated in the Veggie project. []()
-- **Mustard**: To be precise, *Mizuna mustard*, cultivated in the Veggie project. []()
-- **Wheat**: Cultivated in the APH project. 
+- **Lettuce**: To be precise, *'Outredgeous’ red romaine lettuce*, cultivated in the Veggie project. <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf) </sup>
+- **Radish**: Cultivated in the APH project, during the Plant Habitat-02 (PH-02) experiment. <sup>[8](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)</sup>
+- **Cabbage**: To be precise, *'Tokyo Bekana' Chinese cabbage*, cultivated in the Veggie project. <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
+- **Mustard**: To be precise, *Mizuna mustard*, cultivated in the Veggie project. <sup>[4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)</sup>
+- **Wheat**: Cultivated in the APH project. <sup>[7](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)</sup>
 
-LETTUCE, WHEAT, RADISH, CABBAGE, MUSTARD
+With these crops, it is possible to arrange several menus that offers a variety of complete and balanced plates, not only for nutritional purposes, but also for the variety of tastes directed to each member of the tripulation
 
 ### Project Overview
 
-We designed a modular system capable of deploying individual pots where a crop will be planted, grown and harvested. These pots will act as an enclosed environment for the crop to get the right temperature, light, humidity level, air flow, water and fertilizers. Both water and fertilizers will be injected through a vascular system integrated in the pots, reaching the points where the plant can access to them through wicking (similar as _Veggie_ does). [X](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
+We designed a modular system capable of deploying individual pots where a crop will be planted, grown and harvested. These pots will act as an enclosed environment for the crop to get the right temperature, light, humidity level, air flow, water and fertilizers. Both water and fertilizers will be injected through a vascular system integrated in the pots, reaching the points where the plant can access to them through wicking (similar as _Veggie_ does). [4](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
 
 The purpose of this design is to make the most of the available space of the vehicle. We visualize that at the beginning of the journey, most of the stowage space will be occupied by prepackaged food, and a little space will have our HEX pots un-assembled. While the crew eats the food, the space from the prepackaged food will be free, so the astronauts will be deploying the HEX pots in that space and planting the crops. This will keep a continuous food production system even when the prepackaged food finally depletes.
 
 ### Diagrams
 
-The following diagram shows the main components of a HEX pot. The air flow system consists of air conduits where the gases will flow, and a fan to provide the force needed bla bla bla. Nobushaequisde.
+The following diagram shows the main components of a HEX pot. The air flow system consists of air conduits where the gases will flow, and a fan to provide the force needed to move the air. The water and fertilizer system will hydrate and bring all the necessary nutrients for the plant through wicking. And finally, the LEDs will bring the right light level and color in function of which crop is planted on the pot.
 
 ![HEX Diagram](./images/HEX_Diagram_1.png)
 
-**Figure X** - Systems present on each HEX Pot
+**Figure 4** - Systems present on each HEX Pot
 
-Since the HEX pots has a modular design, every single face at the base and top of the pots has a port to connect to the water and fertilizer system, and air flow system of other HEX pot. With a HEX union (shown at the figure X), the pots seals hermetically the ports and also this union provides electrical conductivity to supply other pots with energy.
+Since the HEX pots has a modular design, every single face at the base and top of the pots has a port to connect to the water and fertilizer system, and air flow system of other HEX pot. With a HEX union (shown at the Figure 10), the pots seals hermetically the ports and also this union provides electrical conductivity to supply other pots with energy.
 
 ![HEX Diagram - Top View](./images/HEX_Diagram_2.png)
 
-**Figure X** - Top view from a HEX Pot. This shows how each face has an access to connect to any other HEX Pot.
+**Figure 5** - Top view from a HEX Pot. This shows how each face has an access to connect to any other HEX Pot.
 
 ## **3D Model**
 We develop a solution using reliable sources.
@@ -147,9 +145,9 @@ This means that our proposal is stackable, modular and interconnected. Which put
 
 The materials used for the main module were:
 
-- Transparent panel: polycarbonate with antistatic agents, and antioxidants additives
-- Gripper, support frame: High Density Polyethylene (HDPE)
-- Base: Rubber
+- **Transparent panel**: polycarbonate with antistatic agents, and antioxidants additives
+- **Gripper, support frame**: High Density Polyethylene (HDPE)
+- **Base**: Rubber
 
 The main unit is a hexagonal smart terrarium, with materials able to withstand the context of a mission to Mars, to interconnect with other terrariums and to keep the crops in optimal conditions for their growth.
 
@@ -161,79 +159,54 @@ The proposed solution will put at the command of a space crew a crop that meets 
 
 ![HEX CAD](./images/HEX_CAD_View_1.png)
 
-**Figure X** - HEX
+**Figure 6** - HEX Isometric View.
 
 ![HEX CAD](./images/HEX_CAD_View_2.png)
 
-**Figure X** - HEX
+**Figure 7** - HEX Close-Up.
 
 ![HEX CAD](./images/HEX_CAD_Complex.png)
 
-**Figure X** - HEX
+**Figure 8** - HEX with Solar Panel attachment, and manual pump.
 
 ![HEX CAD](./images/HEX_CAD_Assembly.png)
 
-**Figure X** - HEX
+**Figure 9** - Complex HEX assembly.
 
 ![HEX CAD](./images/HEX_CAD_Union.png)
 
-**Figure X** - HEX
+**Figure 10** - HEX Union.
 
 
 ## **Conclusion**
 
+A decentralized and multi-attachable cultivation system was designed capable of producing several species of vegetables in a given period of time, in order to feed a population of 4-6 people who would go aboard a spacecraft, suspended in space for several months, with the additional ability to provide food once landed on Mars. The system has several units that are capable of being assembled, and between them energy is distributed thanks to a simple coupling that ends up electrically connecting each one with a main storage unit, which consists of a photovoltaic panel that would supply electrical energy from the sun. , once perched on Mars. This design allows an unprecedented use of space inside the ship, thus being able to provide the crew with sufficient resources, while those consumed would be in production. In general, this design and its capabilities would provide future missions with a solution to the problem of food production and consumption along the way.
+
 ## **Future Work**
 
-- **Cultured Meat**: Not only crops could be grown in a restrained environment such as space, we believe that lab-grown meat will sum up to the food production ecosystem in space in the following years. In-vitro meat production is not a new technology on Earth, and even in September of 2019 the first cultured meat was cultivated in space by *Aleph Farms* in partnership with *Bioprinting Solutions*. This experiment was conducted by the cosmonaut Oleg Skripochka  at the International Space Station (ISS). <sup>[X](https://www.aleph-farms.com/aleph-zero), [X](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)</sup>. Recently, the European Space Agency (ESA) publish that they are seeking proposals to investigate the application of cellular agriculture to produce cultured meat during future long-term space mission. <sup>[X](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)</sup>
+- **Cultured Meat**: Not only crops could be grown in a restrained environment such as space, we believe that lab-grown meat will sum up to the food production ecosystem in space in the following years. In-vitro meat production is not a new technology on Earth, and even in September of 2019 the first cultured meat was cultivated in space by *Aleph Farms* in partnership with *Bioprinting Solutions*. This experiment was conducted by the cosmonaut Oleg Skripochka  at the International Space Station (ISS). <sup>[9](https://www.aleph-farms.com/aleph-zero), [10](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)</sup>. Recently, the European Space Agency (ESA) publish that they are seeking proposals to investigate the application of cellular agriculture to produce cultured meat during future long-term space mission. <sup>[11](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)</sup>
 
     ![Cultured Meat in Space](./images/cultured_meat.png)
 
-- **Cooking and preparing complex food recipes:** With recent experiments related to cooking in space, the products obtained from the crops and cultured meat production systems allows astronauts to prepare more complex meals in space, improving both astronaut's nutrition and psychological state during their mission. An example of this new hardware is the Zero-G Kitchen Space Oven, which allowed astronauts to bake cookies at the International Space Station (ISS). <sup>[X](https://www.zerogk.space/space-oven)</sup>
+- **Cooking and preparing complex food recipes:** With recent experiments related to cooking in space, the products obtained from the crops and cultured meat production systems allows astronauts to prepare more complex meals in space, improving both astronaut's nutrition and psychological state during their mission. An example of this new hardware is the Zero-G Kitchen Space Oven, which allowed astronauts to bake cookies at the International Space Station (ISS). <sup>[12](https://www.zerogk.space/space-oven)</sup>
 
     ![Zero-G Oven](./images/zero_g_oven.webp)
 
     Here is a video of the cookies baked at the ISS:
 
-    <iframe width="1904" height="800" src="https://www.youtube.com/embed/nHcvmpiP8k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="800" height="400" src="https://www.youtube.com/embed/nHcvmpiP8k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **References**
 
-- [1] 
-
----
-
-You can use the [editor on GitHub](https://github.com/chris-roman/HEX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chris-roman/HEX/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [1] [Space Food | NASA](https://www.nasa.gov/content/space-food-systems)
+- [2] [Growing Plants in Space | NASA](https://www.nasa.gov/content/growing-plants-in-space)
+- [3] [Veg-03 Plant Pillows Readied at Kennedy Space Center for Trip to Space Station – Kennedy Space Center (nasa.gov)](https://blogs.nasa.gov/kennedy/2016/04/08/veg-03-plant-pillows-readied-at-kennedy-space-center-for-trip-to-space-station/)
+- [4] [Veggie Fact Sheet (nasa.gov)](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
+- [5] [Agriculture for Space: People and Places Paving the Way (degruyter.com)](https://www.degruyter.com/document/doi/10.1515/opag-2017-0002/html)
+- [6] [(PDF) Plants for human life support in space: From Myers to Mars (researchgate.net)](https://www.researchgate.net/publication/228484167_Plants_for_human_life_support_in_space_From_Myers_to_Mars)
+- [7] [Giving Roots and Shoots Their Space: The Advanced Plant Habitat | NASA](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)
+- [8] [Astronauts Harvest Radish Crop on International Space Station | NASA](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)
+- [9] [MEAT FOR SPACE — (aleph-farms.com)](https://www.aleph-farms.com/aleph-zero)
+- [10] [Meat Grown in Space for the First Time Ever | Space](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)
+- [11] [ESA - ESA investigates cultured meat as novel space food](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)
+- [12] [Space Oven | Zero G Kitchen](https://www.zerogk.space/space-oven)
