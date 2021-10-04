@@ -17,6 +17,8 @@
 
 ## **About Us**
 
+![HEX](./images/1.png)
+
 We are a team of mechatronics engineers that seeks to solve problems in the area of ​​agriculture, and in this competition, NASA gives us the opportunity to solve similar problems but in space.
 
 We developed a modular smart growing system, which will allow the crew to plant on Mars.
